@@ -1,0 +1,4 @@
+#variable
+a="최곤"
+b="바보"
+print(a,b)
