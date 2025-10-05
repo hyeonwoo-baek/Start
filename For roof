@@ -1,0 +1,14 @@
+#for roof basic
+for a in range(1,11):
+print(a)
+# print 1~10
+# enumerate roof = if you want to put the number berfore data
+rank=["baek","hyeon","woo"]
+for index,rank in enumerate(rank):
+    print(index,rank)
+# if you want to use the number with 1: enumerate(rank,start=1)
+#zip() roof= if you want to use for roof with two type of data
+number=["a","b","c"]
+data=["data1","data2","data3"]
+for num,word in zip(a,b):
+print(num,word)
